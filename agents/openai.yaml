@@ -1,1 +1,5 @@
-通过浏览器创建这个公开仓库并上传。
+interface:
+  display_name: "目的地行程攻略生成器"
+  short_description: "生成小时级行程、地图路线、语义卡片与交通接驳信息"
+  brand_color: "#F36B35"
+  default_prompt: "使用 $destination-trip-planner 为我的目的地生成一份可交互的小时级旅行攻略。"
